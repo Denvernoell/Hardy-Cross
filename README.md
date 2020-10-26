@@ -1,5 +1,5 @@
 # Hardy-Cross
-![progress](https://progress-bar.dev/60/ "progress")
+![progress](https://progress-bar.dev/70/ "progress")
 
 Learned about the Hardy Cross method in my Water Resources class and the process was demonstrated with Excel. The process was time consuming and error prone due to how the direction of flow affects the calculation. 
 I wanted to create a python script to:
